@@ -1,2 +1,1 @@
-"# M¢j Projekt" 
-notepad README.md
+"# moj-projekt" 
